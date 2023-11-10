@@ -1,6 +1,6 @@
 - Hi, I’m @MDZMetal
 - I’m interested in BABYMETAL, Web Development
-- I’m currently learning HTML/CSS and Javascript
+- I’m currently learning HTML/CSS, PHP and Javascript
 - You can reach me on Discord. My discord handle is "mdzmetal"
 
 <!---
